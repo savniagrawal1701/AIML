@@ -35,4 +35,5 @@ a=np.random.randint(100,size=(4,5))
 print(a)
 
 transposeofa=np.transpose(a)
+
 print(transposeofa)
